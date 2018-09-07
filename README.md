@@ -34,7 +34,8 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
   - [Circos Related](#circos-related)
 - [Database Access](#database-access)
-- [Pathway and Network Analysis](#pathway-and-network-analysis)
+- [Pathway Analysis](#pathway-analysis)
+- [Network Analysis](#network-analysis)
 - [Resources](#resources)
   - [Becoming a Bionformatician](#becoming-a-bioinformatician)
   - [Sequencing](#sequencing)
@@ -209,7 +210,30 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 * [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
-## Pathway and Network Analysis
+## Pathway Analysis
+
+The genes of related functions (such as in the same pathway) ususally have similar expression profile across conditions or time line. Thus, we can use the associated changes in gene expression to explore the biology.
+
+* BiNGO
+* [BioCyc](https://biocyc.org/) - a collection of Pathway/Genome Databases (PGDBs), plus software tools for exploring them.
+* [DAVID](https://david.ncifcrf.gov/) - a comprehensive set of functional annotation tools for investigators to understand biological meaning behind large list of genes.
+* [GeneGo/MetaCore](https://portal.genego.com/) (commercial)
+* GenMAPP - The GenMAPP project is no longer funded or actively supported. 
+* GSEA
+* [Ingenuity Pathway Analysis (IPA)](https://www.qiagenbioinformatics.com/products/ingenuity-pathway-analysis/) (commercial)
+* [PANTHER](http://www.pantherdb.org/)
+* [Pathway Commons](http://www.pathwaycommons.org/) (formerly MSKCC cPath)
+* [Pathway Painter](https://www.gsa-online.de/product/app/) - display quantitative data from gene and protein experiments directly within the pathways.
+* [Pathway Studio](https://www.pathwaystudio.com/) (commercial)
+* [ToppGene Suite](https://toppgene.cchmc.org/) - A portal for gene list enrichment analysis and candidate gene prioritization
+based on functional annotations and protein interactions network.
+* [WebGestalt](http://www.webgestalt.org/option.php) - WEB-based GEne SeT AnaLysis Toolkit.
+* [WikiPathways](https://www.wikipathways.org/index.php/WikiPathways) - a database of biological pathways maintained by and for the scientific community.
+
+## Network Analysis
+
+* Cytoscape
+* WGCNA
 
 ## Resources
 
