@@ -209,7 +209,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 * [Entrez Direct: E-utilities on the UNIX command line](http://www.ncbi.nlm.nih.gov/books/NBK179288/) - UNIX command line tools to access NCBI's databases programmatically. Instructions to install and examples are found in the link.
 
-## Pathway and Network Analysis {#pathway-and-network-analysis}
+## Pathway and Network Analysis
 
 ## Resources
 
